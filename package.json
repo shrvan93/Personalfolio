@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "Personalfolio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -12,7 +12,7 @@
     "type": "git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "ABOSH SHRVAN",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
