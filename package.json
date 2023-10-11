@@ -4,9 +4,11 @@
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
+  "homepage": "https://shrvan93.github.io/Personalfolio/",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "homepage": "https://shrvan93.github.io/Personalfolio"
   },
   "repository": {
     "type": "git"
